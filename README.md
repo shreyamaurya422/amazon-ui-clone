@@ -1,2 +1,19 @@
-# amazon-ui-clone
-Designed the front-page user interface of the Amazon website using HTML and CSS. Created sections including navbar, search bar, hero section, product layout, and footer. Enhanced understanding of webpage structure, styling, flexbox, and UI design fundamentals.
+# Amazon Clone UI
+A frontend Amazon homepage clone created using HTML and CSS.
+
+## Features
+- Amazon-like navbar
+- Search bar UI
+- Hero section
+- Product sections
+- Footer section
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Purpose
+This project was created for learning frontend web development and improving UI design skills.
+
+## Author
+Shreya Maurya
